@@ -28,8 +28,8 @@ struct Point {
 };
 
 struct Line {
-    int a;
-    int b;
+    double a;
+    double b;
 };
 
 class Solution {
