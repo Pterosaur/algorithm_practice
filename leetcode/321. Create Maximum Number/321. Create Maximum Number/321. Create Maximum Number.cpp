@@ -25,15 +25,13 @@
 //return [9, 8, 9]
 
 #include <vector>
-#include <map>
 
 using namespace std;
 
 class Solution {
 public:
     vector<int> maxNumber(vector<int>& nums1, vector<int>& nums2, int k) {
-        map<int, int> m;
-        m.erase()
+
     }
 };
 
