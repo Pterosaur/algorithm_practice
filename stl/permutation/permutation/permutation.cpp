@@ -49,6 +49,7 @@ bool test() {
         "a",
         "abc",
         "abcdef",
+        "fedcba",
         "aaaaaaafjk",
         "aaaaaaaa"
     };
@@ -78,7 +79,7 @@ bool test() {
 #include <time.h>
 
 void benchmark() {
-    std::string test_cases[] = {"123456" , "1234567", "12345678"};
+    std::string test_cases[] = {"123456789" , "0123456789","abcdefghijk"};
 
     for (auto input : test_cases) {
 
