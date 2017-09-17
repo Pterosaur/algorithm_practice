@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{169ED254-2F16-4B7B-B2BA-F4A48DD31CC9}</ProjectGuid>
+    <ProjectGuid>{ED35F5AE-09F7-41F7-99F2-065E8B0F738D}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My71SimplifyPath</RootNamespace>
+    <RootNamespace>ForMSRAInterview</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -142,7 +142,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="71. Simplify Path.cpp" />
+    <ClCompile Include="ForMSRAInterview.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>

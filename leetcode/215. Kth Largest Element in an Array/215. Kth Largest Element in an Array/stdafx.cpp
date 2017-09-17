@@ -1,5 +1,5 @@
 // stdafx.cpp : source file that includes just the standard includes
-// 71. Simplify Path.pch will be the pre-compiled header
+// 215. Kth Largest Element in an Array.pch will be the pre-compiled header
 // stdafx.obj will contain the pre-compiled type information
 
 #include "stdafx.h"

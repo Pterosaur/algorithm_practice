@@ -29,7 +29,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="71. Simplify Path.cpp">
+    <ClCompile Include="ForMSRAInterview.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
